@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Ford",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/ford.png"
+    },
+    {
+      "id": 2,
+      "name": "Chevrolet",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/chevrolet.png"
+    },
+    {
+      "id": 3,
+      "name": "Dodge",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/dodge.gif"
+    },
+    {
+      "id": 4,
+      "name": "Cadillac",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/cadillac.gif"
+    },
+    {
+      "id": 5,
+      "name": "BMW",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/bmw.png"
+    },
+    {
+      "id": 6,
+      "name": "Honda",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/honda.gif"
+    },
+    {
+      "id": 7,
+      "name": "Subaru",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/subaru.gif"
+    },
+    {
+      "id": 8,
+      "name": "Tesla",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/tesla.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Toyota",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/toyota.gif"
+    },
+    {
+      "id": 10,
+      "name": "Jeep",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/jeep.gif"
+    },
+    {
+      "id": 11,
+      "name": "GMC",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/gmc.gif"
+    },
+    {
+      "id": 12,
+      "name": "Audi",
+      "clicked": false,
+      "image": "http://www.izmostock.com/wp-content/uploads/2015/12/audi.gif"
+    }
+ 
+  ]
